@@ -61,9 +61,9 @@ function showTeamInfo(id) {
                     <img src="${restJson.crestUrl}" class="circle">
                 </div>
             <div class="col s4">
-            <p style="font-weight: bold;">Nama Panjang</p>
-            <p style="font-weight: bold;">Asal</p>
-            <p style="font-weight: bold;">Jumlah Pemain</p>
+            <p style="font-weight: bold;">Nama</p>
+            <p style="font-weight: bold;">Alamt</p>
+            <p style="font-weight: bold;">Pemain</p>
             <p style="font-weight: bold;">Website</p>
             </div>
             <div class="col s1">
